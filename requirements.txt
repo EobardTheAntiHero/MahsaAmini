@@ -1,4 +1,5 @@
 streamlit
-alatair
+altair
+praw
 pandas
 numpy
