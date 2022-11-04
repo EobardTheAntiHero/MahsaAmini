@@ -9,7 +9,6 @@ from datetime import datetime
 #Project Description
 st.sidebar.header("How Reddit Reacted to the Murder of Mahsa Amini")
 st.sidebar.markdown("""Dedicated to the memory Mahsa Amini, who was brutally murdered by the morality police on September 16th, and started a fire within all of us.""")
-#st.sidebar.markdown("""A small project by Payam Saeedi""")
 
 st.subheader("Hover over the circles to see date and number of posts")
 
