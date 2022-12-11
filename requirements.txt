@@ -3,3 +3,4 @@ altair
 praw
 pandas
 numpy
+seaborn
